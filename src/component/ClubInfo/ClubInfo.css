@@ -1,0 +1,42 @@
+.boyd-div{
+    background-color: rgb(216, 219, 200);
+}
+.gender-image{
+    width: 400px;
+    height: 200px;
+}
+.club-details-div{
+    background-color: #6537e4;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.description-div{
+    padding: 10px;
+}
+.club-info-banner{
+    height: 400px;
+}
+.banner{
+   height: 390px;
+   width: 100%;
+}
+.logo{
+    position: absolute;
+    width: 150px;
+    top: 100px;
+    left: 43%;
+}
+.social-icon img{
+    width: 50px;
+   
+}
+.social-icon{
+    text-align: center;
+}
+.description{
+    margin-top: 50px;
+    font-size: 16px;
+    color: rgba(14, 1, 15, 0.733);
+
+}
