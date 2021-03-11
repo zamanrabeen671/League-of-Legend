@@ -1,4 +1,4 @@
-# League Of Legend
+# League Of Legends
 
 This project was published at (https://league-of-legends-671.netlify.app/)
 
