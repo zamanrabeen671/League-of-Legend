@@ -3,8 +3,8 @@
 This project was published at (https://league-of-legends-671.netlify.app/)
 
 ## Used: 
-#HTML #CSS #REACT BOOTSTRAP #JAVASCRIPT #REACT JS #REACT ROUTER #FRONTAWESOME |
-##OVERBIEW
+#HTML #CSS #REACT BOOTSTRAP #JAVASCRIPT #REACT JS #REACT ROUTER #FRONTAWESOME |                                                                                           |
+##OVERVIEW
 I make a responsive football league application. 
 
 # react-router-zamanrabeen671
