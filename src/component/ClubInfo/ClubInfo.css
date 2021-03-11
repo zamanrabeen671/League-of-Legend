@@ -41,3 +41,13 @@
     box-shadow: 3px 3px 5px gray;
 
 }
+.back-icon{
+    padding: 10px;
+    color: white;
+    background-color: rgb(212, 31, 31);
+    height: 40px;
+    width: 100px;
+    text-decoration: none;
+    margin-left: 42%;
+
+}
