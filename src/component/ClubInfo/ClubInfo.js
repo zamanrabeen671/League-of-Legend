@@ -47,9 +47,9 @@ const ClubInfo = (props) => {
                     <p>{strDescriptionEN}</p>
                 </div>
                 <div className="social-icon">
-                    <a href={`https://${strFacebook}`} target="_blank"><img src={Facebook} alt="" /></a>
-                    <a href={`https://${strTwitter}`} target="_blank"><img src={Twitter} alt="" /></a>
-                    <a href={`https://${strYoutube}`} target="_blank"><img src={Youtube} alt="" /></a>
+                    <a href={`https://${strFacebook}`} target="_blank" rel="noreferrer"><img src={Facebook} alt="" /></a>
+                    <a href={`https://${strTwitter}`} target="_blank" rel="noreferrer"><img src={Twitter} alt="" /></a>
+                    <a href={`https://${strYoutube}`} target="_blank" rel="noreferrer"><img src={Youtube} alt="" /></a>
                 </div>
             </div>
         </div>
