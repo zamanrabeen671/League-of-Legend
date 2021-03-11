@@ -2,7 +2,7 @@ import React from 'react';
 import { useHistory } from 'react-router';
 import './ShowClub.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee, faArrowRight} from '@fortawesome/free-solid-svg-icons'
+import {faArrowRight} from '@fortawesome/free-solid-svg-icons'
 const ShowClub = (props) => {
     const history = useHistory();
     const {strTeam, strTeamBadge, idTeam, strSport} = props.clubName;

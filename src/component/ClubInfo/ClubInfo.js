@@ -6,7 +6,7 @@ import Youtube from '../../img/YouTube.png';
 import Twitter from '../../img/Twitter.png'
 import './ClubInfo.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faFutbol, faMapMarker, faFlag, faMarsStroke, faInstagram, faTwitter, faYoutube } from '@fortawesome/free-solid-svg-icons';
+import { faFutbol, faMapMarker, faFlag, faMarsStroke} from '@fortawesome/free-solid-svg-icons';
 
 const ClubInfo = (props) => {
     const { strTeam, intFormedYear, strCountry, strGender, strSport, strDescriptionEN, strStadiumThumb, strTeamBadge, strFacebook, strTwitter, strYoutube} = props.club;
@@ -43,8 +43,8 @@ const ClubInfo = (props) => {
                         </div>
                     </div>
                 </div>
-                <div >
-                    <p className="description">{strDescriptionEN}</p>
+                <div className="description">
+                    <p>{strDescriptionEN}</p>
                 </div>
                 <div className="social-icon">
                     <a href={`https://${strFacebook}`} target="_blank"><img src={Facebook} alt="" /></a>
